@@ -3,7 +3,7 @@
 
 -- Create ScreenGui
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "FartyUltimateGUI"
+ScreenGui.Name = "SnowyyUltimateGUI"
 ScreenGui.Parent = game.CoreGui
 ScreenGui.ResetOnSpawn = false
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
@@ -173,7 +173,7 @@ local TeleportModeButton = Instance.new("TextButton")
 TeleportModeButton.Size = UDim2.new(1, -20, 0, 40)
 TeleportModeButton.Position = UDim2.new(0, 10, 0, 170)
 TeleportModeButton.BackgroundColor3 = Color3.fromRGB(50, 50, 70)
-TeleportModeButton.Text = "❌ Click Teleport: OFF"
+TeleportModeButton.Text = "❌ Fart Teleport: OFF"
 TeleportModeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 TeleportModeButton.TextSize = 16
 TeleportModeButton.Font = Enum.Font.GothamBold
